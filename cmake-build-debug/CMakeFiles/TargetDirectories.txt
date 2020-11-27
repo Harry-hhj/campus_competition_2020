@@ -1,0 +1,3 @@
+/home/wxy/CLionProjects/for_comp_test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wxy/CLionProjects/for_comp_test/cmake-build-debug/CMakeFiles/comp.dir
+/home/wxy/CLionProjects/for_comp_test/cmake-build-debug/CMakeFiles/edit_cache.dir
